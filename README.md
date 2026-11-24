@@ -6,7 +6,7 @@ Sistema web para uma locadora cadastrar veículos, controlar a disponibilidade d
 
 ## Integrante
 
-- NOME COMPLETO DO ALUNO
+- André Luyz Gabryell Coutinho de Siqueira
 
 ## Tecnologias
 
